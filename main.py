@@ -16,3 +16,4 @@ def calculator():
             print('Вы ввели недопустимое значение!')
     except ValueError:
         print('Вы ввели недопустимое значение!')
+calculator()
